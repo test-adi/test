@@ -13,7 +13,7 @@ namespace AdiTest\Test;
  *
  * @author adrian
  */
-class RegnetTest {
+class Test {
 
 	/**
 	 * 
