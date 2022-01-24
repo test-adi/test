@@ -20,7 +20,7 @@ class Test {
 	 */
 	static public function test() {
 		
-		echo __METHOD__, " (v1.0.3)\n";
+		echo __METHOD__, " (v1.0.5)\n";
 	}	
 	
 	
